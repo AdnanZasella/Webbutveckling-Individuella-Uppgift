@@ -180,7 +180,7 @@ body {
 }
 
 .footer a {
-    color: #444444;
-    text-decoration: none;
-    margin-left: 8px;
+    color: #222222;
+    text-decoration: underline;
+    font-weight: 500;
 }
